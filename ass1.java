@@ -1,4 +1,3 @@
-package com.basics;
 import java.util.*;
 public class ass1 {
 	public static void main(String args[]) {
